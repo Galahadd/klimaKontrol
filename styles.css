@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#klima-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.klima {
+    margin: 10px;
+    text-align: center;
+}
+
+.klima img {
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
